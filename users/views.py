@@ -18,9 +18,17 @@ def register(request):
     
     return render(request, 'users/register.html', {'form' : form})
 
-    # types of messages
-    # messages.debug
-    # messages.info
-    # messages.success
-    # messages.warning
-    # messages.error
+
+def profile(request):
+    render(request, 'users/profile.html')
+
+
+
+
+
+# types of messages
+# messages.debug
+# messages.info
+# messages.success
+# messages.warning
+# messages.error
