@@ -1,23 +1,25 @@
 # sociel
  
  # Home Page
- ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/home_page.PNG "Home Page !")
+ ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/home_page.PNG "Home Page")
  
  
-  # Home Page
- ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/home_page.PNG "Home Page !")
+  # Profile
+ ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/profile.PNG "Profile Page")
  
- # Home Page
- ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/home_page.PNG "Home Page !")
+ # Update Profile
+ ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/update_profile.PNG "Update Page")
  
-  # Home Page
- ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/home_page.PNG "Home Page !")
+  # New Post
+ ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/new_post.PNG "New Post")
  
-  # Home Page
- ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/home_page.PNG "Home Page !")
+  # Delete Post
+ ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/delete_post.PNG "Delete Post")
  
-  # Home Page
- ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/home_page.PNG "Home Page !")
+  # Pagination
+ ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/Pagination.PNG "Pagination")
  
-  # Home Page
- ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/home_page.PNG "Home Page !")
+  # Pagination Code
+ ![alt text](https://github.com/shkhaider2015/social/blob/master/Screenshots/pagination_code.PNG "Pagination Code")
+
+# Thank You :)
