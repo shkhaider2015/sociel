@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'blog.apps.BlogConfig',
     'users.apps.UsersConfig',
     'crispy_forms',
+    'crispy_bootstrap4',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -80,8 +81,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'social',
-        'USER' : 'postgres',
-        'PASSWORD' : '1234',
+        'USER' : 'macbook',
+        'PASSWORD' : '1735',
         'HOST' : 'localhost'
     }
 }
